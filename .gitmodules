@@ -1,0 +1,3 @@
+[submodule "athenaeum"]
+	path = athenaeum
+	url = git@github.com:immcdonald/athenaeum.git
